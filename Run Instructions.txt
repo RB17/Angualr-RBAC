@@ -1,0 +1,20 @@
+
+# Installation pre-requisites
+
+    npm install 
+
+# To Run the Development Backend Server
+
+    npm run server
+
+Node REST API server, and it uses HTTPS.
+
+# To run the Development UI Server
+
+    npm start 
+
+The application is visible at port 4200, but you need to use HTTPS - [https://localhost:4200](https://localhost:4200)
+
+This application uses a self-signed certificate, so you will need to accept it using the browser. If you are using Chrome, you will need to click Advanced and then choose "Proceed to localhost".
+
+
